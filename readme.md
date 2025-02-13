@@ -7,7 +7,7 @@
 **Official PyTorch implementation of our ICLR 2024 paper:**  
 > **Routing Experts: Learning to Route Dynamic Experts in Existing Multi-modal Large Language Models**
 >
-> Qiong Wu<sup>1,2</sup>, Zhaoxi Ke<sup>1,2</sup>, Yiyi Zhou<sup>1,2</sup>, Xiaoshuai Sun<sup>1,2</sup>, Rongrong Ji<sup>1,2,*</sup>
+> Qiong Wu<sup>1,2</sup>, Zhaoxi Ke<sup>1,2</sup>, Yiyi Zhou<sup>1,2,*</sup>, Xiaoshuai Sun<sup>1,2</sup>, Rongrong Ji<sup>1,2</sup>
 > 
 > <sup>1</sup> Key Laboratory of Multimedia Trusted Perception and Efficient Computing, Ministry of Education of China, Xiamen University, 361005, P.R. China  
 >

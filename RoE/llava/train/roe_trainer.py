@@ -304,7 +304,7 @@ class LLaVATrainer(Trainer):
                                                                         n in router_parameters and 
                                                                         p.requires_grad)
                     ],
-                    "weight_decay": 0.0,
+                    "weight_decay": self.args.weight_decay,
                     "lr": self.args.roe_lr,
                 },
                 # Adapter 
@@ -323,7 +323,7 @@ class LLaVATrainer(Trainer):
                                                                         n in adapter_parameters and 
                                                                         p.requires_grad)
                     ],
-                    "weight_decay": 0.0,
+                    "weight_decay": self.args.weight_decay,
                     "lr": self.args.roe_lr,
                 },
             ]

@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
 [![Framework](https://img.shields.io/badge/framework-PyTorch-red)]()
 
-**Official PyTorch implementation of our ICLR 2024 paper:**  
+**Official PyTorch implementation of our ICLR 2025 paper:**  
 > **Routing Experts: Learning to Route Dynamic Experts in Existing Multi-modal Large Language Models**
 >
 > Qiong Wu<sup>1,2</sup>, Zhaoxi Ke<sup>1,2</sup>, Yiyi Zhou<sup>1,2,*</sup>, Xiaoshuai Sun<sup>1,2</sup>, Rongrong Ji<sup>1,2</sup>
